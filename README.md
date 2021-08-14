@@ -1,4 +1,4 @@
-[Link](netflix-clone-portfolio.netlify.app)
+[Link](https://netflix-clone-portfolio.netlify.app/)
 
 # Getting Started with Create React App
 
