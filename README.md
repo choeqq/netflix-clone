@@ -1,4 +1,7 @@
+
 [LIVE](https://netflix-clone-portfolio.netlify.app/)
+
+Project created with help o [Carl Hadwens's tutotial](https://www.youtube.com/watch?v=x_EEwGe-a9o&t=28405s&ab_channel=KarlHadwen)
 
 # Getting Started with Create React App
 
